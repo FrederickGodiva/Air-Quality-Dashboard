@@ -60,20 +60,13 @@ Data used in this project is taken from [data-source](https://github.com/marcelo
    pip install -r requirements.txt
    ```
 
-5. Change directory to dashboard
-   ```bash
-   cd .\dashboard\
-   ``` 
-
 5. Run the streamlit dashboard
    ```bash
-   streamlit run dashboard.py
+   streamlit run .\dashboard\dashboard.py
    ```
 
-6. Stop the streamlit dashboard
-   ```bash
-   ctrl + c
-   ```
+6. Stop the streamlit dashboard press `ctrl + c`
+
 ---
 
 Copyright &copy; 2025 - Frederick Godiva
