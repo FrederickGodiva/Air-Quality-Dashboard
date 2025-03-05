@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-df = pd.read_csv("df.csv")
+df = pd.read_csv("./df.csv")
 
 
 @st.cache_data
