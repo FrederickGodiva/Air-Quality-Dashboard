@@ -22,7 +22,7 @@ This project analyzes and visualizes air quality data, including data wrangling,
 ├── data/               # original dataset
 ├── notebook.ipynb      # notebook for data analysis
 ├── README.md           # documentation for this proejct
-├── requirements.txt    # requirements used in the project
+├── requirements.txt    # dependencies used in the project
 ```
 
 
