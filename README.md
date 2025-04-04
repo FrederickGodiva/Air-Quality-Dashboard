@@ -22,7 +22,7 @@ Please visit this link to view the deployed version [streamlit deployed](https:/
     ├── df.csv          # cleaned dataset
 ├── data/               # original dataset
 ├── notebook.ipynb      # notebook for data analysis
-├── README.md           # documentation for this proejct
+├── README.md           # documentation for this project
 ├── requirements.txt    # dependencies used in the project
 ```
 
